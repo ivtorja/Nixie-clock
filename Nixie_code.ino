@@ -51,8 +51,8 @@ portMUX_TYPE timerMux = portMUX_INITIALIZER_UNLOCKED;
 const char* ssid1 = "Nixie";  // Your WiFi network
 const char* password1 = "1234567890";  // Your WiFi password
 
-const char* ssid2 = "sagemcom83E0";  // Your WiFi network
-const char* password2 = "LZMZQWY4CTYJVW";  // Your WiFi password
+const char* ssid2 = "SSID";  // Your WiFi network
+const char* password2 = "PASSWORD";  // Your WiFi password
 
 const char* ntpServer = "hora.roa.es";
 const long gmtOffset_sec = 1*3600; //change this to adapt it to your time zone
